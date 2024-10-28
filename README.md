@@ -204,6 +204,10 @@ This Challenge is graded based on the following criteria:
 
 * The GitHub repository containing your application code.
 
+
+### Deployed link to video 
+* https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto
+
 ### Walkthrough Video: 37%
 
 * A walkthrough video that demonstrates the functionality of the e-commerce back end must be submitted, and a link to the video should be included in your readme file.
